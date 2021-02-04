@@ -16,5 +16,7 @@ This will install all neccesary dependancies and then type 'npm run start' in te
 M-E-R-N / Heroku / Bootstrap
 
 --Authors--
+Mark Shelgren
 
 --Acknowledgments--
+The teachers, trainers and central graders at UCI Full Stack Development Bootcamp
