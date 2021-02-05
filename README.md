@@ -2,8 +2,6 @@
 
 --Homework 19 - React Homework: Employee Directory--
 
-![Bootcamp Homework 19 shield](https://img.shields.io/badge/Bootcamp-Unit_18_PWA_Homework-green)
-
 [Click here to open Deployed application:](https://markshelgren.github.io/EmployeeDirectory/)
 
 GitHub Repo: https://github.com/markshelgren/EmployeeDirectory
